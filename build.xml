@@ -1,4 +1,4 @@
-<project name="HelloWorld" basedir="." default="main">
+<project name="HelloWorld" basedir="." default="run">
 
     <property name="src.dir"     value="src"/>
 
